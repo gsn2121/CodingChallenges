@@ -1,6 +1,9 @@
 package hackerearth;
 
 import java.util.*;
+
+//////////////////QUESTIONS/////////////////////////
+
 /*
 You are given a string S. Count the number of occurrences of all the digits in the string S.
 

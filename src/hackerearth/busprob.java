@@ -31,6 +31,8 @@ import java.util.List;
 //}
 //public class BusProb {
 
+import dao.DataSet;
+
 public class busprob {
 	String outstring;
 

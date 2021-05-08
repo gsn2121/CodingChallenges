@@ -1,4 +1,4 @@
-package hackerearth;
+package dao;
 
 public class DataSet {
 
